@@ -3,7 +3,6 @@
 from fractions import gcd
 from sys import argv
 
-
 def pollards_rho(n):
     x = 2
     y = 2
